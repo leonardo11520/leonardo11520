@@ -3,7 +3,7 @@
 
 meu nome é leonardo
 
--estou estudando na alura
+-estou estudando na [alura](https://ww.alura.com.br)
 
 -estou me desenvolvendo na linguagem javascript
 
@@ -12,6 +12,9 @@ meu nome é leonardo
 ###Voce entrar em contato comigo
 
 leonardo.miglioretto.rodrigues@escola.pr.gov.br
+
+![](https://media.tenor.com/evoSxqcmKCYAAAAd/soviet-cat-sovicat.gif)
+
 
 <!--
 **leonardo11520/leonardo11520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
