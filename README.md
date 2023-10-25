@@ -1,4 +1,15 @@
-### Hi there 👋
+### boas vindas ao meu perfil
+
+
+meu nome é leonardo
+
+-estou estudando na alura
+-estou me desenvolvendo na linguagem javascript
+-Utilizo esse esspaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+###Voce entrar em contato comigo
+
+leonardo.miglioretto.rodrigues@escola.pr.gov.br
 
 <!--
 **leonardo11520/leonardo11520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
